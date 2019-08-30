@@ -1,0 +1,5 @@
+require 'pry'
+require_relative '../lib/checkout'
+require_relative '../lib/product'
+require_relative '../lib/promotion_rules/total_price_discount'
+require_relative '../lib/promotion_rules/product_discount'
